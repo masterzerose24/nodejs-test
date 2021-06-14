@@ -1,0 +1,1 @@
+{"version":3,"file":"withJsonHeaders.js","sourceRoot":"","sources":["../../../src/api/common/withJsonHeaders.ts"],"names":[],"mappings":";;AAEA,SAAwB,eAAe,CAAe,IAAO;IACzD,OAAO;QACH,OAAO,EAAE;YACT,cAAc,EAAE,kBAAkB;YAClC,MAAM,EAAE,kBAAkB;YAC1B,GAAG,IAAI;SACV;KACF,CAAA;AACH,CAAC;AARD,kCAQC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"transRollback.js","sourceRoot":"","sources":["../../../../src/utils/db/transaction/transRollback.ts"],"names":[],"mappings":";;AAAe,KAAK,UAAU,aAAa,CAAC,GAAG,EAAE,WAAW;IACxD,MAAM,WAAW,CAAC,QAAQ,EAAE,CAAC;IAC7B,OAAO,GAAG,CAAC;AACf,CAAC;AAHD,gCAGC"}
